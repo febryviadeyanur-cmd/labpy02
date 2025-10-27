@@ -51,8 +51,31 @@ Total Harga yang Harus Dibayar: Rp80,000
 
 Program finished
 
+Tugas Algoritma
 
-Kasus 2
+#Kasus 1: Program Pemesanan Tiket Bioskop
+
+1. Mulai
+   
+2. Masukkan harga dan diskon
+
+3. Input tipe tiket (Reguler atau VIP)
+
+4. Input status member (ya atau tidak)
+   
+5. Tentukan harga berdasarkan tipe tiket:
+ - Reguler = Rp 50.000
+ - VIP = 100.000
+6. Jika pengguna memiliki kartu member (ya) dapat diskon 20%
+
+7. Hitung total harga setelah diskon
+
+8. Tampilkan hasil perhitungan
+
+9. Selesai
+    
+
+Kasus 2 
 #Program Kalkulator Sederhana
 
 #Menerima dua angka dan operator aritmatika
@@ -86,3 +109,19 @@ operator = 9-5 = 4.0
 operator = 18*2 = 20.0
 
 operator = 8/4 = 2.0
+
+Tugas Algoritma
+
+1. Mulai
+
+2. Input dua angka dan satu operator (+, -, *, /)
+
+3. Menggunakanif-else-elif untuk menentukan operasi:
+   -Penjumlahan = +
+   -Pengurangan = -
+   - Perkalian = *
+   - Pembagian = /
+
+  4. Tampilkan hasil operasi ke layar
+
+  5. Selesai
