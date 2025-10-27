@@ -74,7 +74,7 @@ Tugas Algoritma
 
 9. Selesai
 
-![image alt](
+![image alt](https://github.com/febryviadeyanur-cmd/labpy02/blob/2642fe331283f7a92d95ba82a1e29f1e287f373d/2025-10-28%20at%2003.06.11_8a9105a7.jpg)
 
 Kasus 2 
 #Program Kalkulator Sederhana
