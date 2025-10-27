@@ -40,11 +40,17 @@ total  harga = harga awal
 (Status member yang anda masukkan tidak ada/diskon)
 
 Menampilkan hasil akhir
+
 Detail pembayaran
+
 Tipe Tiket: Vip
+
 Harga awal: Rp100,000
+
 Total Harga yang Harus Dibayar: Rp80,000
+
 Program finished
+
 
 Kasus 2
 #Program Kalkulator Sederhana
