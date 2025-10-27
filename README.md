@@ -118,8 +118,8 @@ Tugas Algoritma
 2. Input dua angka dan satu operator (+, -, *, /)
 
 3. Menggunakanif-else-elif untuk menentukan operasi:
-   -Penjumlahan = +
-   -Pengurangan = -
+   - Penjumlahan = +
+   - Pengurangan = -
    - Perkalian = *
    - Pembagian = /
 
