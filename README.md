@@ -129,3 +129,8 @@ Tugas Algoritma
 
 ![image alt](https://github.com/febryviadeyanur-cmd/labpy02/blob/57a9079634ea13b9acfec5e216928769f734393b/2025-10-28%20at%2003.45.03_dbf4276e.jpg)
 
+![image alt](https://github.com/febryviadeyanur-cmd/labpy02/blob/0944194abb2515f098a7e4b6c94b6911df0bf56c/Screenshot%202025-10-27%20234320.png)
+
+URL Repo 
+
+https://github.com/febryviadeyanur-cmd/labpy02
