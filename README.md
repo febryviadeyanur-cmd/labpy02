@@ -74,7 +74,7 @@ Tugas Algoritma
 
 9. Selesai
 
-![image alt](https://github.com/febryviadeyanur-cmd/labpy02/blob/57a9079634ea13b9acfec5e216928769f734393b/2025-10-28%20at%2003.45.03_dbf4276e.jpg)
+![image alt](
 
 Kasus 2 
 #Program Kalkulator Sederhana
@@ -126,3 +126,6 @@ Tugas Algoritma
   4. Tampilkan hasil operasi ke layar
 
   5. Selesai
+
+![image alt](https://github.com/febryviadeyanur-cmd/labpy02/blob/57a9079634ea13b9acfec5e216928769f734393b/2025-10-28%20at%2003.45.03_dbf4276e.jpg)
+
