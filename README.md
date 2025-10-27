@@ -106,7 +106,7 @@ operator = 7+6 = 13.0
 
 operator = 9-5 = 4.0
 
-operator = 18*2 = 20.0
+operator = 10*2 = 20.0
 
 operator = 8/4 = 2.0
 
